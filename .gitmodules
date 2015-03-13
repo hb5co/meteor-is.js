@@ -1,0 +1,3 @@
+[submodule "lib/io.js"]
+  path = lib/is.js
+  url = https://github.com/arasatasaygin/is.js.git
